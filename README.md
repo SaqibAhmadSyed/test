@@ -6,7 +6,7 @@
   - Using elementary matrices to find the inverse of a matrix
 - [ ] **Finding Determinant Using Row Operations**
   - Example: Second row [a b c] changes to [-a+66 -b+66 -c+66]
-- [ ] **Determinant of Composite Matrices**
+- [x] **Determinant of Composite Matrices**
   - Example: \(\det(6 A^2 B^{-1}C^t \text{Adj}(C))\)
 - [ ] **Finding the Inverse of a Matrix from an Equation**
 - [ ] **Isolating a Matrix \(X\) from an Equation**
