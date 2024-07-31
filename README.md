@@ -1,7 +1,7 @@
 ### Topics
 
-- [ ] **Solving a System of Linear Equations (SLE) in a Traffic Network**
-- [ ] **Finding Elementary Matrices**
+- [x] **Solving a System of Linear Equations (SLE) in a Traffic Network**
+- [x] **Finding Elementary Matrices**
   - Simple case: 2x2 matrices
   - Using elementary matrices to find the inverse of a matrix
 - [ ] **Finding Determinant Using Row Operations**
