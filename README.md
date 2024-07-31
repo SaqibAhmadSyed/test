@@ -10,7 +10,7 @@
   - Example: \(\det(6 A^2 B^{-1}C^t \text{Adj}(C))\)
 - [ ] **Finding the Inverse of a Matrix from an Equation**
 - [ ] **Isolating a Matrix \(X\) from an Equation**
-- [ ] **Graphing Sum and Multiple of Vectors**
+- [x] **Graphing Sum and Multiple of Vectors**
   - In \(\mathbb{R}^2\)
 - [ ] **Conditions for a Parameter to Ensure Linear Independence**
   - Example: Condition for parameter to have at least one solution in SLE
